@@ -1,5 +1,15 @@
-# Bank App in ReactJS and Expo
+# Bank App Frontend
 
-Frontend of Bank App using ReactJS and Expo
+One of my first React projects. This is my own designated fronted of a Bank App
+
+Technologies:
+- React Native
+- Expo
+- ChartJS
+
+Features:
+- Bottom navigation menu
+- Simple animations
+- This is only frontend, so besides a menu there are not any other interactive elements
 
 <img alt="Screenshot from Bank App" src="https://github.com/tomassilny/bank-app-reactjs/blob/master/assets/screenshot.png" width="400">
